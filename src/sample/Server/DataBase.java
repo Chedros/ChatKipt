@@ -1,4 +1,6 @@
-package sample.Client;
+package sample.Server;
+
+import sample.Client.Const;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
