@@ -1,4 +1,4 @@
-package sample.music;
+package sample.Client.music;
 
 public class musicwindow {
 }

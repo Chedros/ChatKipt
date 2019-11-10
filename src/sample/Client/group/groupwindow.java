@@ -1,4 +1,4 @@
-package sample.group;
+package sample.Client.group;
 
 public class groupwindow {
 }
