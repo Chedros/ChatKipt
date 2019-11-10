@@ -1,4 +1,4 @@
 package sample.Client.music;
 
-public class musicwindow {
+public class MusicController {
 }

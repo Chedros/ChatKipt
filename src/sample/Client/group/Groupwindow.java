@@ -1,4 +1,4 @@
 package sample.Client.group;
 
-public class groupController {
+public class Groupwindow {
 }

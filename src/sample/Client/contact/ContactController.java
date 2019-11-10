@@ -1,4 +1,4 @@
 package sample.Client.contact;
 
-public class contactwindow {
+public class ContactController {
 }
