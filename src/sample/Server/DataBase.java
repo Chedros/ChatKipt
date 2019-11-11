@@ -1,7 +1,5 @@
 package sample.Server;
 
-import sample.Client.Const;
-
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
@@ -15,7 +13,7 @@ public class DataBase {
             System.out.println(e.getMessage());
         }
         try {
-            dbConnection = DriverManager.getConnection(Const.CONNECTION_URL,Const.DB_USER ,Const.DB_PASSWORD);
+            dbConnection = DriverManager.getConnection(Const.CONNECTION_URL,Const.DB_USER,Const.DB_PASSWORD);
             return dbConnection;
         } catch (SQLException e) {
             System.out.println(e.getMessage());
